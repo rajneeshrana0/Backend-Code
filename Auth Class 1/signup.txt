@@ -1,0 +1,20 @@
+Sign up---------------------->
+
+
+Data/Featch
+Validation
+Email id // Registered or  not
+pwd -- hash or bycrypt
+
+
+LOGIN--------------------------------->
+
+1. Fetch email password
+2. Validation
+3. check user exist or not
+4. password Match or not
+5. toast . success
+
+
+
+
